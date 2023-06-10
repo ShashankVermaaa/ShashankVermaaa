@@ -7,7 +7,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3>Student || UPES’26-CSE </h3>
+<h3>Sophomore || UPES’26-CSE </h3>
 I’m currently working with
       Python :snake: and C programming language. :computer:
       
