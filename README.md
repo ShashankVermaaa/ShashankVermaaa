@@ -18,7 +18,6 @@ Also learning web development using Java Script, HTML and Cascading Style Sheets
 ### :open_file_folder: How to reach me :
 
 📫: vermashashank.1022@gmail.com
-      https://www.linkedin.com/in/shashank-verma-0878a3256/
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
