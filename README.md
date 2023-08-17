@@ -8,16 +8,12 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3>Sophomore || UPES’26-CSE </h3>
-I’m currently working with
-      Python :snake: and C programming language. :computer:
-      
-Also learning web development using Java Script, HTML and Cascading Style Sheets(CSS)
-
+Namaste! This is Shashank Verma, sophomore, pursuing a bachelor's degree in computer science and engineering specializing in Full-Stack AI. Reflecting a varied personality including ambition, and the qualities of punctuality and thoughtfulness. As of now I am nothing but trying to be something by learning new skills, meeting people, and fishing for new opportunities.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :open_file_folder: How to reach me :
 
-📫: vermashashank.1022@gmail.com
+📫: shashankverma.1022@gmail.com
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
