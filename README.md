@@ -7,7 +7,7 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Namaste! This is Shashank Verma, sophomore, pursuing a bachelor's degree in computer science and engineering specializing in Full-Stack AI. Reflecting a varied personality including ambition, and the qualities of punctuality and thoughtfulness. As of now I am nothing but trying to be something by learning new skills, 
+Namaste! This is Shashank Verma, in third year, pursuing a bachelor's degree in computer science and engineering specializing in Full-Stack AI. Reflecting a varied personality including ambition, and the qualities of punctuality and thoughtfulness. As of now I am nothing but trying to be something by learning new skills, 
                                                   meeting people, and fishing for new opportunities.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
